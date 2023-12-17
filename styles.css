@@ -601,9 +601,9 @@ img {
     height: 376px;
   }
   .home__img {
-    width: 470px;
-    top: 3.5rem;
+    width: 353px;
+    top: -0.5rem;
     right: 0;
-    left: -3rem;
+    left: 0rem;
   }
 }
