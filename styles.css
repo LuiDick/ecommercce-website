@@ -308,7 +308,7 @@ img {
 }
 
 .sneaker__img {
-  width: 220px;
+  width: 267px;
   margin-top: var(--mb-3);
   margin-bottom: var(--mb-6);
   transform: var(--rotate-img);
@@ -412,7 +412,7 @@ img {
 }
 
 .offer__img {
-  width: 153px;
+  width: 481px;
 }
 
 /*===== NEW COLLECTION  =====*/
@@ -601,9 +601,9 @@ img {
     height: 376px;
   }
   .home__img {
-    width: 353px;
-    top: -0.5rem;
+    width: 400px;
+    top: 1.5rem;
     right: 0;
-    left: 0rem;
+    left: -1rem;
   }
 }
