@@ -11,9 +11,9 @@
 
   /*===== Colores =====*/
   --dark-color: #141414;
-  --dark-color-light: #8a8a8a;
+  --dark-color-light: #666666;
   --dark-color-lighten: #f2f2f2;
-  --white-color: #fff;
+  --white-color: #ebe0e0;
 
   /*===== Font and typography =====*/
   --body-font: "Poppins", sans-serif;
@@ -36,7 +36,7 @@
   --z-fixed: 100;
 
   /*===== Rotate img =====*/
-  --rotate-img: rotate(-30deg);
+  --rotate-img: rotate(-0deg);
 }
 
 @media screen and (min-width: 768px) {
